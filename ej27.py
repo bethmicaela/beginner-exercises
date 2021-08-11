@@ -56,7 +56,7 @@ def fibonacci_reverse(maximo):
 
 
 def run():
-    option = input("Enter option 1 or 2:")
+    option = input("Enter option 1 or 2: ")
     max = int(input("Enter a maximum number to know the Fibonacci sequence, from 1 to 15: "))
 
     if option == "1":
